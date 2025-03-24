@@ -1,0 +1,27 @@
+body {
+    background-color: #f8e9c4; /* Tom amarelado, tipo papel envelhecido */
+    font-family: Georgia, serif;
+    color: #7d3cff; /* Lilás */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.2); /* Um leve fundo para contraste */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #5a2396; /* Lilás mais escuro para destaque */
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.6;
+}
